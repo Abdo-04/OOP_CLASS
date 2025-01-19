@@ -1,0 +1,4 @@
+# ninja log v6
+1	74	1737109895905649448	build.ninja	b48e68770b41a2b2
+1	659	1737106563661631492	CMakeFiles/untitled.dir/library.cpp.o	ebd4cdfbcd0dde97
+661	690	1737106564321926297	libuntitled.a	862d70220a978a85
